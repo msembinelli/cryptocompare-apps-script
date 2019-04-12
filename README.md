@@ -1,0 +1,1 @@
+# cryptocompare-apps-script
